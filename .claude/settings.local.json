@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m venv .venv)",
+      "Bash(.venv/bin/pip install *)",
+      "Bash(export ANTHROPIC_API_KEY=apikey_01Rj2N8SVvo6BePZj99NhmiT)",
+      "Bash(ANTHROPIC_API_KEY=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 .venv/bin/python *)",
+      "Skill(claude-api)",
+      "Bash(python3 *)",
+      "Bash(pip3 install *)",
+      "Bash(.venv/bin/python *)",
+      "Bash(open *)",
+      "Bash(/Users/alexcrick/Downloads/altTextProject/.venv/bin/pip show *)",
+      "Bash(/Users/alexcrick/Downloads/altTextProject/.venv/bin/python --version)",
+      "Bash(brew --version)",
+      "Read(//opt/homebrew/**)",
+      "Bash(brew list *)",
+      "Bash(python3.13 --version)",
+      "Bash(python3.12 --version)",
+      "Bash(brew link *)"
+    ]
+  }
+}
