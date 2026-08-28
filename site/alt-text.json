@@ -1,94 +1,320 @@
 {
-  "20250925_The-Who+22_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_01.jpg": {
-    "alt1": "Older musician with white hair and glasses singing into a microphone while playing a Fender Telecaster guitar on a concert stage.",
-    "alt2": "Live performance scene with a guitarist in a dark shirt singing, stage lit in blue and red, drum kit and second performer visible behind."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "Bass guitarist Brad Vander Ark of The Verve Pipe plays a red bass onstage under purple and orange lights, with a drummer visible behind.",
+    "alt2": "A musician in a black sleeveless shirt plays a red bass guitar, head lowered, while a drummer performs in the background amid colorful stage lighting.",
+    "members_detected": [
+      {
+        "name": "Brad Vander Ark",
+        "role": "Bass",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Daine Hammerle",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_01.jpg": {
-    "alt1": "Elderly musician in dark blazer and sunglasses gestures with raised hand while standing at a microphone, a red electric guitar slung across him.",
-    "alt2": "Performer on a dimly lit stage holds one hand up expressively beside a mic stand, wearing a red Fender guitar, with a band member faintly visible behind."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "A guitarist with wide-eyed expression plays a black electric guitar on a stage lit with purple and yellow light, while a keyboardist raises a drumstick behind him.",
+    "alt2": "On a colorfully lit concert stage, a woman gestures with a drumstick near a Roland keyboard as a man performs an animated guitar solo in the foreground.",
+    "members_detected": [
+      {
+        "name": "Channing Lee",
+        "role": "Keyboards/vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_02.jpg": {
-    "alt1": "An older man with white hair and glasses holds a corded microphone on a darkened stage, wearing a dark long-sleeve shirt and jeans.",
-    "alt2": "Two musicians performing live; a singer holds a mic in the foreground while a guitarist plays in the shadowy background."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "A gray-haired guitarist in a blue shirt sings into a microphone while playing an electric guitar on a stage lit with purple and green light.",
+    "alt2": "Live concert scene with a lead singer-guitarist center stage, another guitarist bent over his instrument at left, and a drummer at right amid colorful stage lighting."
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_03.jpg": {
-    "alt1": "An older musician in sunglasses and dark jacket plays a red electric guitar at a microphone, with a drummer behind him on a stage lit in red.",
-    "alt2": "Live concert scene with a guitarist singing into a mic, a Fender guitar in hand, against a vivid red illuminated backdrop."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "Bass guitarist Brad Vander Ark of The Verve Pipe leans back mid-performance, playing a red bass under purple and yellow stage lights.",
+    "alt2": "A musician in a black sleeveless shirt plays a red bass guitar on a smoky stage, drum kit and mic stands nearby in colorful lighting.",
+    "members_detected": [
+      {
+        "name": "Brad Vander Ark",
+        "role": "Bass, backing vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_04.jpg": {
-    "alt1": "Older male singer with curly white hair and glasses swings a microphone by its cord on a dark stage, mid-performance.",
-    "alt2": "A senior musician in a dark long-sleeved shirt and jeans twirls a mic cable, with a bald bandmate and instruments behind him."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "A singer with silver hair and a beard plays a sunburst electric guitar while singing into a microphone under blue stage lighting, with a bassist and drummer behind him.",
+    "alt2": "Bassist Brad Vander Ark and drummer Daine Hammerle of The Verve Pipe perform on a smoke-filled, blue-lit stage while a bearded guitarist sings at the mic in the foreground.",
+    "members_detected": [
+      {
+        "name": "Brad Vander Ark",
+        "role": "Bass",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Daine Hammerle",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_05.jpg": {
-    "alt1": "An older musician in sunglasses and a black jacket plays a red electric guitar onstage, arm raised mid-strum, with a microphone beside him.",
-    "alt2": "Guitarist performing live with a red Fender, backed by a large blue and red graphic backdrop and stage equipment."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "A gray-haired bassist with a beard sings passionately into a microphone under blue and green stage lights while playing bass guitar.",
+    "alt2": "Bassist Brad Vander Ark of The Verve Pipe performs live, mouth wide open mid-song, holding a bass amid hazy purple stage lighting.",
+    "members_detected": [
+      {
+        "name": "Brad Vander Ark",
+        "role": "Bass, backing vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_06.jpg": {
-    "alt1": "Older musician in dark jacket and sunglasses plays a red electric guitar at a microphone on a blue-lit stage, with a drummer behind him.",
-    "alt2": "Live concert scene with a guitarist performing onstage in front of a large denim-jacket backdrop, drummer visible at lower left."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_07.jpg": {
+    "alt1": "A smiling guitarist plays a Fender electric guitar on stage under pink and purple lights, with Roland keyboards behind him.",
+    "alt2": "Musician in a dark t-shirt and green pants grins while playing guitar, stage equipment and a microphone visible around him."
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_07.jpg": {
-    "alt1": "Two older male musicians perform on a dark stage; one sings into a handheld microphone while the other plays a red electric guitar.",
-    "alt2": "A live concert scene with a vocalist in a dark long-sleeve shirt holding a mic and a guitarist in sunglasses playing a red Fender."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_08.jpg": {
+    "alt1": "Bassist Brad Vander Ark of The Verve Pipe plays a red bass guitar on stage under blue lights, with a drummer performing behind him.",
+    "alt2": "A musician in a black sleeveless shirt leans into playing a bright red bass, while a drummer in a cap plays a Tama kit amid stage haze.",
+    "members_detected": [
+      {
+        "name": "Brad Vander Ark",
+        "role": "Bass, backing vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Daine Hammerle",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_08.jpg": {
-    "alt1": "Drummer behind a large sparkly silver drum kit with a blue target design on the bass drum, singing during a live concert.",
-    "alt2": "Musician in a cream t-shirt plays drums on stage, with a city-themed backdrop and green light panel visible behind him."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_09.jpg": {
+    "alt1": "Two guitarists lean toward each other on a dark stage, guitars nearly touching, while a drummer plays a TAMA kit behind them under green stage lighting.",
+    "alt2": "Bassist in a black tank top with a red bass and a guitarist in olive pants play face-to-face at the front of a smoky concert stage, drummer visible at right.",
+    "members_detected": [
+      {
+        "name": "Daine Hammerle",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_09.jpg": {
-    "alt1": "An older musician in a dark jacket and sunglasses plays a red electric guitar on a dimly lit stage, with a microphone stand beside him.",
-    "alt2": "A gray-haired guitarist tuning a red Fender Stratocaster during a concert, with another performer faintly visible in the background."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_10.jpg": {
+    "alt1": "The Verve Pipe performs on a dark stage lit with red and white spotlights, two guitarists facing each other, a drummer behind, and a keyboardist to the side.",
+    "alt2": "Live rock concert scene with band members playing guitars, drums, and keyboards; a bassist in a black tank top faces the guitarist mid-performance.",
+    "members_detected": [
+      {
+        "name": "Channing Lee",
+        "role": "Keyboards, vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Daine Hammerle",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_10.jpg": {
-    "alt1": "Older man with curly gray hair and glasses singing passionately into a microphone on a dark concert stage.",
-    "alt2": "Vocalist in a purple long-sleeve shirt and jeans performs on stage, with a guitarist and drum kit dimly visible behind him."
+  "20260624_The-Verve-Pipe_at_Showbox-SoDo_Photo-by-Alex-Crick_11.jpg": {
+    "alt1": "A gray-haired, bearded musician in a dark green shirt smiles with eyes closed, one tattooed arm raised, while holding a guitar on a blue-lit stage.",
+    "alt2": "A performer with spiked silver hair sings and gestures at a microphone, guitar strap over his shoulder, with a bandmate dimly visible to the left under purple stage lights."
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_11.jpg": {
-    "alt1": "Older musician wearing sunglasses and a dark jacket plays a red electric guitar on stage near a microphone, lit by red lighting.",
-    "alt2": "Guitarist performing live, focused on his red and white Fender guitar, with drums and a band member visible in the dark background."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace holds a megaphone to his mouth on a smoky, red-lit stage, one hand gripping the mic stand.",
+    "alt2": "A singer in a black leather jacket sings through a megaphone under dramatic stage lighting, mist and light beams behind him.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_12.jpg": {
-    "alt1": "Older musician in dark jacket and sunglasses playing a red electric guitar on stage, with a large face projected on screen behind.",
-    "alt2": "Guitarist performing live at a concert, looking down at his red Fender guitar, drummer and red stage lighting visible in background."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace sings into a megaphone-style mic while pointing outward, wearing a black leather jacket under stage lights.",
+    "alt2": "A singer holds a black megaphone microphone and gestures with an outstretched arm, mouth open mid-song, amid crossing beams of stage light.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_13.jpg": {
-    "alt1": "Bald man in white t-shirt and sunglasses playing acoustic guitar on a dark stage beside a microphone.",
-    "alt2": "Musician performing live, dramatically lit against a black background, holding a wooden guitar near a mic stand."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace sings into a black megaphone labeled 'Heroism and the Streets' under blue stage lights.",
+    "alt2": "A performer in a black leather jacket holds a bullhorn to his mouth on a hazy, blue-lit stage, singing passionately.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_14.jpg": {
-    "alt1": "Drummer mid-performance, mouth open, holding sticks up behind a large black drum kit under red stage lighting.",
-    "alt2": "Energetic musician playing drums live on stage, wearing a cream t-shirt with text and an in-ear monitor."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace holds a black megaphone to his shoulder while gripping a mic stand, lit by stage lights and haze.",
+    "alt2": "A singer in a black leather jacket and white tank top performs onstage, raising a megaphone amid smoky red and blue lighting.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_15.jpg": {
-    "alt1": "Older musician with white curly hair and glasses playing a Fender Telecaster guitar and singing into a microphone on a stage lit in red.",
-    "alt2": "Senior man in a dark blue shirt performing with a yellow electric guitar on stage, with a keyboardist and drum kit visible behind him."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "Lead vocalist and acoustic guitarist Raine Maida of Our Lady Peace sings passionately into a mic on a stage bathed in blue light.",
+    "alt2": "A musician in a black leather jacket plays acoustic guitar and sings intensely, with a bandmate and drums dimly visible in blue haze.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals, acoustic guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_16.jpg": {
-    "alt1": "An older musician with curly gray hair and glasses plays a pale electric guitar on stage, lit by blue light with a red backdrop.",
-    "alt2": "A guitarist performs at a concert near a microphone stand, with drums and another band member visible in the dim blue-lit background."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "Lead guitarist Steve Mazur of Our Lady Peace plays a red hollow-body guitar on stage, lit by a bright X-shaped stage light.",
+    "alt2": "A guitarist in a dark jacket looks down at his cherry-red guitar amid hazy purple and orange stage lighting, with a Marshall amp nearby.",
+    "members_detected": [
+      {
+        "name": "Steve Mazur",
+        "role": "Lead guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_17.jpg": {
-    "alt1": "Two older male musicians performing on a dark stage; one sings with arms raised at a mic while another plays a red electric guitar.",
-    "alt2": "Live rock concert scene with a white-haired vocalist holding a wooden guitar, a guitarist on red Stratocaster, and a singer in the background."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_07.jpg": {
+    "alt1": "Lead vocalist and acoustic guitarist Raine Maida of Our Lady Peace sings passionately into a mic while playing a black guitar under dramatic stage lighting.",
+    "alt2": "A musician in a black leather jacket performs on stage, mouth open mid-song, playing acoustic guitar as beams of light streak across the frame and a drum kit sits behind.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals, acoustic guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_18.jpg": {
-    "alt1": "An older man with gray curly hair and glasses sings into a microphone while playing a blonde Telecaster guitar on a dark stage.",
-    "alt2": "Two musicians perform live; one sings and plays a wood-toned electric guitar in front, while another plays a red guitar nearby."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_08.jpg": {
+    "alt1": "Bass guitarist Duncan Coutts of Our Lady Peace plays a black bass on a dark stage, wearing a black polo shirt, eyes closed in concentration.",
+    "alt2": "A musician performs on bass under stage lighting, with road cases, an amp, and a second guitar on a stand visible behind him.",
+    "members_detected": [
+      {
+        "name": "Duncan Coutts",
+        "role": "Bass, backing vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_19.jpg": {
-    "alt1": "Two older musicians perform on a dark stage, one singing into a microphone while playing a blonde electric guitar, the other playing a red guitar.",
-    "alt2": "Concert scene with a singer at a mic holding a Fender Telecaster on the left and a guitarist in a black jacket with a red guitar on the right."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_09.jpg": {
+    "alt1": "Acoustic guitarist and vocalist Raine Maida of Our Lady Peace plays a black guitar on stage under blue lighting, with in-ear monitors and a leather jacket.",
+    "alt2": "A musician in a black leather jacket strums a black acoustic guitar during a concert, with a drum kit visible behind him and stage haze around.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals, acoustic guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_20.jpg": {
-    "alt1": "Two older musicians perform on a dark stage, one singing into a microphone while playing a wood-grain electric guitar, the other playing a red guitar.",
-    "alt2": "A gray-haired singer with glasses leans into a mic, gripping a Telecaster guitar, as a bald bandmate plays a red electric guitar behind him."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_10.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace sings passionately into a handheld microphone while pointing outward, lit by blue stage light.",
+    "alt2": "A singer in a black leather jacket performs mid-song, mouth open and arm extended pointing toward the crowd, on a dramatically lit stage.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_21.jpg": {
-    "alt1": "Older musician with white curly hair and glasses sings into a microphone while playing a yellow electric guitar on stage.",
-    "alt2": "Live concert performance featuring a guitarist in a dark shirt singing, with drum kit and a second performer visible in the background."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_11.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace sings passionately into a mic stand in a black leather jacket, eyes closed, as a guitarist plays behind him in stage haze.",
+    "alt2": "A singer belts out lyrics gripping a microphone on its stand, mouth wide open, while a guitarist is silhouetted in smoky backlight on a dark stage.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   },
-  "20250925_The-Who_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_22.jpg": {
-    "alt1": "Two elderly musicians perform on stage; one sings into a microphone with arm outstretched while the other plays a red electric guitar.",
-    "alt2": "Concert scene with a gray-haired vocalist gesturing and singing, a guitarist in a dark suit, and band members under stage lighting."
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_12.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace sings passionately into a mic on a stand, wearing a black leather jacket under dramatic stage lighting.",
+    "alt2": "A singer in a leather jacket belts into a microphone while a bassist plays in the smoky, backlit background of a concert stage.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Duncan Coutts",
+        "role": "Bass",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_13.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace sings into a mic on a stand, reaching out with one arm, wearing a black leather jacket under stage lighting.",
+    "alt2": "A male singer in a black leather jacket performs, holding a microphone and gesturing outward, with an in-ear monitor visible amid smoky blue stage light.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_14.jpg": {
+    "alt1": "Lead vocalist Raine Maida of Our Lady Peace sings into a mic on a stand, wearing a black leather jacket against a deep blue stage backdrop.",
+    "alt2": "A singer in a black leather jacket grips a microphone stand mid-performance, lit against a vivid blue haze.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260624_Our-Lady-Peace_at_Showbox-SoDo_Photo-by-Alex-Crick_15.jpg": {
+    "alt1": "Lead vocalist and acoustic guitarist Raine Maida of Our Lady Peace sings passionately into a mic on stage, while a guitarist plays a red guitar behind him in blue light.",
+    "alt2": "A singer in a black leather jacket belts out lyrics with mouth wide open, playing acoustic guitar under dramatic stage lighting beside another guitarist.",
+    "members_detected": [
+      {
+        "name": "Raine Maida",
+        "role": "Lead vocals, acoustic guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   }
 }

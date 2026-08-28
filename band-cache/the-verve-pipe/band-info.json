@@ -1,0 +1,43 @@
+{
+  "band_name": "The Verve Pipe",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Verve_Pipe",
+  "description": "American alternative rock/post-grunge band from East Lansing, Michigan, formed in 1992.",
+  "fetched_date": "2026-08-08",
+  "members": [
+    {
+      "name": "Brian Vander Ark",
+      "role": "Lead and backing vocals, guitar",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Brad Vander Ark",
+      "role": "Bass, backing vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Channing Lee",
+      "role": "Lead and backing vocals, keyboards",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Lou Musa",
+      "role": "Guitar",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Daine Hammerle",
+      "role": "Drums",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    }
+  ]
+}

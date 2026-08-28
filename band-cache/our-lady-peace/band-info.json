@@ -1,0 +1,36 @@
+{
+  "band_name": "Our Lady Peace",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Our_Lady_Peace",
+  "description": "Canadian alternative rock/post-grunge band formed in Toronto, Ontario in 1992.",
+  "fetched_date": "2026-08-08",
+  "members": [
+    {
+      "name": "Raine Maida",
+      "role": "Lead vocals, rhythm/acoustic guitar",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Raine_Maida_2010.jpg"
+    },
+    {
+      "name": "Duncan Coutts",
+      "role": "Bass, backing vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Steve Mazur",
+      "role": "Lead guitar, keyboards, backing vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Jason Pierce",
+      "role": "Drums, percussion",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Jason_Pierce_-_Our_Lady_Peace.jpg"
+    }
+  ]
+}
