@@ -1,0 +1,30 @@
+{
+  "band_name": "Sting",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sting_(musician)",
+  "description": "English rock/pop/jazz singer-songwriter and bassist (b. 1951, Wallsend, England), former frontman of the Police, solo artist since 1985.",
+  "is_solo_artist": true,
+  "fetched_date": "2026-10-10",
+  "members": [
+    {
+      "name": "Sting (Gordon Matthew Thomas Sumner)",
+      "role": "Lead vocals, bass guitar, songwriter",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/Sting_in_April_2018.jpg/640px-Sting_in_April_2018.jpg"
+    },
+    {
+      "name": "Dominic Miller",
+      "role": "Guitar (longtime touring/backing guitarist)",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Chris Maas",
+      "role": "Drums (touring drummer, 'Sting 3.0' trio)",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    }
+  ]
+}

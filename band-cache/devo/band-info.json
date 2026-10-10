@@ -1,0 +1,43 @@
+{
+  "band_name": "Devo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Devo",
+  "description": "American new wave/art punk band formed in 1973 in Akron, Ohio, known for synth-driven satire and the hit \"Whip It\".",
+  "fetched_date": "2026-09-26",
+  "members": [
+    {
+      "name": "Mark Mothersbaugh",
+      "role": "Lead vocals, keyboards, synthesizer, guitar",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Bob Mothersbaugh",
+      "role": "Lead guitar, vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Gerald Casale",
+      "role": "Bass guitar, keyboards, vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Josh Hager",
+      "role": "Rhythm guitar, keyboards, backing vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Jeff Friedl",
+      "role": "Drums",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "band_name": "Weezer",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Weezer",
+  "description": "American alternative rock/power pop band formed in Los Angeles, California in 1992.",
+  "fetched_date": "2026-09-13",
+  "members": [
+    {
+      "name": "Rivers Cuomo",
+      "role": "Lead vocals, guitar, keyboards",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Rivers_Cuomo.jpg"
+    },
+    {
+      "name": "Patrick Wilson",
+      "role": "Drums, percussion, backing vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Brian Bell",
+      "role": "Guitar, keyboards, backing vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Brian_Bell.jpg"
+    },
+    {
+      "name": "Scott Shriner",
+      "role": "Bass, keyboards, backing vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "band_name": "Adéla (The Adela Band)",
+  "wikipedia_url": null,
+  "description": "A Mexican rock fusion band (alternative rock/pop with electronic touches) formed in early 2008 in Guadalajara, Jalisco.",
+  "fetched_date": "2026-09-30",
+  "members": [
+    {
+      "name": "Crix (Cristy)",
+      "role": "Vocals",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Buddy",
+      "role": "Guitar",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Freaky",
+      "role": "Bass",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Chili",
+      "role": "Drums",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    }
+  ]
+}

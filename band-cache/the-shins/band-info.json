@@ -1,0 +1,43 @@
+{
+  "band_name": "The Shins",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Shins",
+  "description": "American indie rock band from Albuquerque, New Mexico, formed in 1996, now based in Portland, Oregon.",
+  "fetched_date": "2026-09-14",
+  "members": [
+    {
+      "name": "James Mercer",
+      "role": "Lead vocals, guitar, songwriter",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": "https://en.wikipedia.org/wiki/File:James_Mercer_of_Broken_Bells_(close_up).jpg"
+    },
+    {
+      "name": "Yuuki Matthews",
+      "role": "Bass, keyboards",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Mark Watrous",
+      "role": "Guitar, keyboards, lap steel",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Patti King",
+      "role": "Keyboards",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    },
+    {
+      "name": "Jon Sortland",
+      "role": "Drums",
+      "reference_photo": null,
+      "source": "web_search",
+      "source_url": null
+    }
+  ]
+}

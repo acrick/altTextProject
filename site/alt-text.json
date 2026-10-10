@@ -316,5 +316,943 @@
         "matched_by": "role"
       }
     ]
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "Silhouette of a curly-haired musician playing guitar beside a microphone stand, lit by dramatic blue and yellow stage lights.",
+    "alt2": "A performer in profile at a concert, backlit by golden light against blue haze, holding a guitar near a mic stand."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "Two musicians perform on stage in silhouette, one singing into a mic with a guitar, another playing guitar behind, amid blue and gold stage lights.",
+    "alt2": "Concert scene with a vocalist at a microphone and a guitarist in dramatic backlighting; a setlist lies on the stage edge and a bottle sits on a stool."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "Bearded drummer in sunglasses and white baseball jersey plays a Rogers drum kit on stage under dramatic yellow lighting.",
+    "alt2": "A musician performs at a concert behind cymbals and drums, illuminated by golden spotlight beams streaming down from above."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "Singer with curly dark hair and red bandana performs into a microphone on stage under blue lighting.",
+    "alt2": "Performer in a black leather jacket sings passionately, eyes closed, against dramatic blue stage lights and truss rigging."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "Singer with curly hair and red bandana performs onstage, holding a microphone and reaching out with one hand under purple lighting.",
+    "alt2": "A performer in a fringed leather jacket sings passionately into a mic, eyes closed, arm extended toward the crowd at a concert."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "A performer with curly hair and a headband sings passionately into a microphone while raising a fist, lit by blue stage lights.",
+    "alt2": "Singer in a fringed leather jacket belts into a handheld mic during an energetic concert, surrounded by stage equipment and dramatic lighting."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_07.jpg": {
+    "alt1": "Long-haired guitarist in a sheer white lace shirt plays a Fender electric guitar under blue stage lights at a concert.",
+    "alt2": "Rock musician performs energetically on stage, head down and hair flying, playing guitar amid dramatic blue lighting and haze."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_08.jpg": {
+    "alt1": "Singer with curly hair and red bandana performs into a microphone under blue stage lighting, wearing a fringed leather jacket and fingerless gloves.",
+    "alt2": "A vocalist in profile grips a mic mid-performance, hand gesturing expressively, backlit by bright stage lights at a concert."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_09.jpg": {
+    "alt1": "Musician with curly hair and red bandana sings into a microphone while playing a small guitar on a stage lit with purple and red lights.",
+    "alt2": "A performer in a black leather jacket sings and plays guitar under dramatic concert lighting, with another musician visible in the background."
+  },
+  "20260904_LP_at_Showbox-SoDo_Photo-by-Alex-Crick_10.jpg": {
+    "alt1": "A singer with curly hair and headband performs at a microphone on a dimly lit stage while a bassist and red drum kit are behind him, with a silhouetted audience in front.",
+    "alt2": "Concert scene with two musicians onstage bathed in blue stage lighting and smoke, viewed over the heads of a dark crowd, some holding up phones."
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "Four band members silhouetted against glowing yellow stage haze, walking past a white picket fence with a microphone stand nearby.",
+    "alt2": "Backlit figures of a four-piece band emerge through thick golden smoke on a dramatically lit stage."
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "A long-haired guitarist plays a black Gibson Les Paul on stage, wearing a graphic tank top and worn jacket under purple lighting.",
+    "alt2": "Musician with shoulder-length hair and a red beaded necklace performs on electric guitar, looking down at the fretboard during a live show."
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "A guitarist with glasses and a light jacket plays a sticker-covered teal electric guitar under stage lighting, gazing down at the fretboard.",
+    "alt2": "Onstage, a musician in a beige shirt focuses intently while playing a green Fender-style guitar beside a microphone stand."
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "Drummer Patrick Wilson of Weezer plays a teal sparkle drum kit onstage, sticks raised, smiling, in front of a blue-lit backdrop.",
+    "alt2": "A smiling bald drummer in a black shirt and glasses performs behind a green glitter Ludwig kit with cymbals and mics, under stage lighting.",
+    "members_detected": [
+      {
+        "name": "Patrick Wilson",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "Bassist Scott Shriner of Weezer plays a worn sunburst bass on stage, wearing a light blue shirt and glasses, before a white picket fence backdrop.",
+    "alt2": "A musician in a blue shirt stands wide-legged playing a battered electric bass under stage lighting and haze, with a microphone stand and amps nearby.",
+    "members_detected": [
+      {
+        "name": "Scott Shriner",
+        "role": "Bass",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "Lead singer and guitarist Rivers Cuomo of Weezer plays a green sticker-covered electric guitar on stage, with a drummer and starry moon backdrop behind him.",
+    "alt2": "A guitarist in glasses and a cream jacket performs onstage under a projected night sky with crescent moon, while a drummer plays behind a teal kit.",
+    "members_detected": [
+      {
+        "name": "Rivers Cuomo",
+        "role": "Lead vocals, guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Patrick Wilson",
+        "role": "Drums",
+        "confidence": "low",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_07.jpg": {
+    "alt1": "Enthusiastic fans in a concert crowd bathed in blue stage light, one wearing sunglasses and grinning while holding hands up near their face.",
+    "alt2": "Smiling audience members watching a live performance, faces lit blue, with a laughing person in dark sunglasses at the center."
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_08.jpg": {
+    "alt1": "Weezer performs on a stage designed like a suburban house at night, with two guitarists in front, a drummer at center, and a large starry-sky backdrop.",
+    "alt2": "Two guitarists play at the edge of a concert stage while a drummer performs behind them, framed by a house facade and a big screen showing a close-up.",
+    "members_detected": [
+      {
+        "name": "Patrick Wilson",
+        "role": "Drums, percussion, backing vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_09.jpg": {
+    "alt1": "A long-haired guitarist in paint-splattered overalls and denim jacket plays electric guitar on stage, with a large screen behind showing a close-up of him against a starry night backdrop with a crescent moon.",
+    "alt2": "Guitarist performing live in front of a projected suburban house set numbered 2226, wearing a t-shirt with a pink flower and red bead necklace, his image mirrored on a big screen."
+  },
+  "20260913_Weezer_at_Climate-Plede-Arena_Photo-by-Alex-Crick_10.jpg": {
+    "alt1": "Bassist Scott Shriner of Weezer plays a worn bass guitar and sings into a mic on a smoky, dramatically lit stage with a white picket fence backdrop.",
+    "alt2": "A musician in a light blue shirt performs bass at a microphone, backlit by beams of light cutting through haze on stage.",
+    "members_detected": [
+      {
+        "name": "Scott Shriner",
+        "role": "Bass",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_The-Shins_at_Climate-Plede-Arena_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "Drummer Jon Sortland of The Shins, wearing a green Adidas jacket and a 'Las Vegas Nevada' cap, plays behind a kit onstage.",
+    "alt2": "A bearded drummer in a green track jacket and trucker hat performs behind cymbals and a white bass drum marked 'C' under stage lighting.",
+    "members_detected": [
+      {
+        "name": "Jon Sortland",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_The-Shins_at_Climate-Plede-Arena_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "Bearded singer plays acoustic guitar and sings into a mic on a dimly lit stage, with a bassist behind him.",
+    "alt2": "Lead vocalist and guitarist James Mercer of The Shins performs at a microphone while a bass player stands in the blue-lit background.",
+    "members_detected": [
+      {
+        "name": "James Mercer",
+        "role": "Lead vocals, guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Yuuki Matthews",
+        "role": "Bass",
+        "confidence": "low",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_The-Shins_at_Climate-Plede-Arena_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "A bearded man in a light plaid short-sleeve shirt plays an acoustic Gibson guitar at a microphone under blue and purple stage lighting.",
+    "alt2": "Guitarist and vocalist performing live, focused on his acoustic guitar, lit against a dark blue backdrop with a mic positioned in front of him."
+  },
+  "20260913_The-Shins_at_Climate-Plede-Arena_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "The Shins perform on a stage lit blue, with a large green 'THE SHINS' logo and palm-tree graphics behind them; guitarists, drummer, and keyboardist play.",
+    "alt2": "Lead vocalist and guitarist James Mercer of The Shins sings into a mic while playing acoustic guitar, flanked by a drummer, electric guitarist, and keyboardist onstage.",
+    "members_detected": [
+      {
+        "name": "James Mercer",
+        "role": "Lead vocals, guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Jon Sortland",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_The-Shins_at_Climate-Plede-Arena_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "Keyboardist Patti King of The Shins, wearing a blue cardigan, plays a tambourine on a dimly lit stage with keyboards behind her.",
+    "alt2": "A blonde woman in a blue knit cardigan holds a tambourine on stage, with synthesizers, mic stands, and blue lighting around her.",
+    "members_detected": [
+      {
+        "name": "Patti King",
+        "role": "Keyboards",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260913_The-Shins_at_Climate-Plede-Arena_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "Lead vocalist and guitarist James Mercer of The Shins sings with eyes closed while playing an acoustic Gibson guitar under blue stage lighting.",
+    "alt2": "A bearded musician passionately sings into a microphone while strumming a natural-wood acoustic guitar on a dark stage.",
+    "members_detected": [
+      {
+        "name": "James Mercer",
+        "role": "Lead vocals, guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "Concert fans in red lobster onesies with claw mittens and eye-stalk hoods, one shouting and one grinning, bathed in red stage light.",
+    "alt2": "A crowd lit in red at a show, with two people in playful lobster costumes standing beside a woman in a red bucket hat and other spectators."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "Two Devo fans in costume at a concert; one wears a lifelike male mask and saluting, the other a red terraced 'energy dome' hat, smiling among the crowd.",
+    "alt2": "A smiling woman in a red tiered Devo dome hat poses beside a person in a plastic pompadour mask and white jumpsuit reading 'DEV', surrounded by concertgoers."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "A performer in a black suit and red tiered plastic hat raises a microphone overhead on a dimly lit stage with drums and keyboards behind.",
+    "alt2": "Musician wearing dark glasses and an iconic red 'energy dome' hat holds a mic aloft mid-performance, one hand on his hip."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "A performer in a red plastic hat, black glasses, and black jacket gestures on stage, with a keyboardist in a red hat visible behind him.",
+    "alt2": "On a dark stage, a musician wearing an iconic red energy-dome hat and black glasses raises his hands mid-song while another band member plays keyboards in the background."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "An older musician in a red terraced Energy Dome hat and black jacket sings into a microphone behind a keyboard on a stage lit red.",
+    "alt2": "Performer wearing Devo's iconic red dome hat plays keyboard and sings, with a second red-capped bandmate at a mic in the darkened background."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "A performer in a red plastic hat and dark glasses holds a matching red hat mid-stage, with another red-hatted musician visible at right.",
+    "alt2": "On a dark stage lit with red, a bandmember in a grey jacket and iconic red 'energy dome' hat gestures with a second dome near a microphone."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_07.jpg": {
+    "alt1": "A bearded man in glasses wearing a red bowl-shaped plastic hat leans on a barrier at a concert, with a laughing woman in a sequined top beside him.",
+    "alt2": "Concert attendee with a red tiered plastic hat and plaid shirt rests against a metal crowd barrier, audience visible in the dim background."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_08.jpg": {
+    "alt1": "A performer in a black suit, glasses, and iconic red tiered 'energy dome' hat holds a microphone on a dark stage, with a red-lit guitarist behind him.",
+    "alt2": "Two Devo band members onstage wearing red terraced dome hats and black outfits; the front figure clasps a mic while a guitarist plays a sunburst guitar in the background."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_09.jpg": {
+    "alt1": "A singer in a black suit and red terraced 'energy dome' hat sings into a microphone, gesturing with one hand, while bandmates play guitar and keyboards behind him on a dark red-lit stage.",
+    "alt2": "Lead vocalist of Devo performs in the band's iconic red flowerpot-shaped hat and black outfit, with a guitarist and keyboardist in matching hats visible in the shadowy background.",
+    "members_detected": [
+      {
+        "name": "Mark Mothersbaugh",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_10.jpg": {
+    "alt1": "A singer in a red dome-shaped hat and dark jacket sings passionately into a microphone under blue stage lights.",
+    "alt2": "Performer wearing an iconic red flowerpot-style hat gestures with one hand while singing, a second band member in a matching hat below."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_11.jpg": {
+    "alt1": "Bass guitarist Gerald Casale of Devo, in a bright yellow suit branded 'DEVO', sings into a microphone while playing bass under a spotlight.",
+    "alt2": "A performer in a shiny yellow jumpsuit holds a black bass guitar and leans toward a mic on a dark stage, eyes closed mid-song.",
+    "members_detected": [
+      {
+        "name": "Gerald Casale",
+        "role": "Bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_12.jpg": {
+    "alt1": "Two musicians in bright yellow protective suits play electric guitars on a dark stage, one in front focused on a sunburst Les Paul.",
+    "alt2": "Guitarists wearing yellow hazmat-style jumpsuits marked 'DEVO' perform under stage lighting against a black backdrop."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_13.jpg": {
+    "alt1": "Lead vocalist Mark Mothersbaugh of Devo sings into a microphone in a yellow jumpsuit and black glasses, with two bandmates in matching yellow suits behind him.",
+    "alt2": "Three musicians in bright yellow suits perform on a stage lit by a grid of blue lights; the singer wears black-framed glasses while two guitarists play behind him.",
+    "members_detected": [
+      {
+        "name": "Mark Mothersbaugh",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_14.jpg": {
+    "alt1": "A silver-haired singer in a yellow DEVO jumpsuit and black glasses sings into a microphone onstage, with bandmates in matching yellow behind him.",
+    "alt2": "Onstage at a Devo concert, a vocalist in yellow holds a mic near a bright pixelated video screen while a guitarist in a yellow 'DEVO' suit plays in the background."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_15.jpg": {
+    "alt1": "Two Devo members in bright yellow costumes labeled 'DEVO' perform on a dark stage, one singing into a mic while playing bass, the other holding a mic and tugging his costume.",
+    "alt2": "Bass guitarist Gerald Casale of Devo sings intensely into a mic while playing bass, as a vocalist in a matching yellow suit grabs at his outfit during a live show.",
+    "members_detected": [
+      {
+        "name": "Gerald Casale",
+        "role": "Bass guitar, keyboards, vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_16.jpg": {
+    "alt1": "A silver-haired singer in a yellow vest with 'EVO' text passionately sings into a microphone under stage lights, with bandmates behind him.",
+    "alt2": "Vocalist wearing glasses and an in-ear monitor performs energetically on stage, gripping a mic, while musicians play in the darker background."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_17.jpg": {
+    "alt1": "Two Devo performers in bright yellow distressed jumpsuits with 'DEVO' text; one plays a yellow guitar while a singer holds a microphone.",
+    "alt2": "A bald guitarist plays a yellow electric guitar beside a gray-haired vocalist gripping a mic, both in torn yellow stage costumes under dark lighting."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_18.jpg": {
+    "alt1": "Three musicians in bright yellow Devo suits perform on a dark stage, the central singer holding a microphone to his mouth.",
+    "alt2": "Lead vocalist Mark Mothersbaugh of Devo sings into a mic while two bandmates in matching yellow outfits play guitars beside him.",
+    "members_detected": [
+      {
+        "name": "Mark Mothersbaugh",
+        "role": "Lead vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_19.jpg": {
+    "alt1": "Three members of Devo perform onstage in bright yellow costumes printed with the band name, one singing into a microphone while two play guitars under blue-purple lighting.",
+    "alt2": "A singer tilts his head back holding a mic aloft as bandmates in matching yellow 'DEVO' outfits play guitar beside him during a concert."
+  },
+  "20260925_Devo_at_Climate-Pladge-Arena_Photo-by-Alex-Crick_20.jpg": {
+    "alt1": "Drummer Jeff Friedl of Devo, in a bright yellow rain jacket, performs behind a large kit surrounded by cymbals under stage lighting.",
+    "alt2": "A drummer wearing a yellow jacket sits at a chrome drum set with Zildjian cymbals, mouth open mid-performance against a dark backdrop.",
+    "members_detected": [
+      {
+        "name": "Jeff Friedl",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "A shirtless dancer in torn white top and baggy grey cargo pants drops into a dramatic lunge on a dark stage lit with pink and purple light.",
+    "alt2": "Energetic stage performance with several dancers in distressed streetwear striking bold poses near a hot-pink railing, a fan on the floor at left."
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "A group of dancers in ripped crop tops and denim shorts strike dramatic poses on a dark stage lit with pink and red light.",
+    "alt2": "Energetic stage performance with a shirtless dancer center, a pink-haired performer in a denim jacket behind, and others crouching and reaching outward."
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "Two male dancers in torn white tops and dark shorts perform high side kicks at a pink ballet barre, framing a pink-haired performer center stage.",
+    "alt2": "On a dark stage lit with red, a performer with long magenta hair stands facing away between two dancers mid-kick at a bright pink barre."
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band), with pink hair and a denim jacket, raises a microphone overhead on stage flanked by four dancers.",
+    "alt2": "A pink-haired singer in a denim jacket and dark shorts stretches both arms up holding a mic, with dancers in ripped shirts beside a red railing under dark stage lighting.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "Vocalist Crix (Cristy) of Adéla (The Adela Band) crouches low on stage with pink hair, singing into a mic and gesturing with one hand.",
+    "alt2": "A pink-haired singer in a denim jacket crouches mid-performance under red stage lights, flanked by energetic dancers with outstretched arms.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) with long pink hair performs on stage, holding a mic and pointing upward, flanked by two backup dancers.",
+    "alt2": "A pink-haired singer in a studded crop top and shorts strikes a dramatic pose under stage lights while two dancers move behind her on a dark stage.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_07.jpg": {
+    "alt1": "Vocalist Crix of Adéla raises both arms with middle fingers up, wearing a denim jacket, black shorts, and lace-up platform boots on a red-lit stage.",
+    "alt2": "Pink-haired singer in studded denim and knee-high boots strikes a defiant pose flanked by two shirtless male dancers under red stage lighting.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_08.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) performs with bright pink hair, a studded denim jacket and black leather top, holding a mic.",
+    "alt2": "A singer with vivid magenta hair sings into a microphone on a dimly lit stage, wearing a denim jacket over a black and teal top.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_09.jpg": {
+    "alt1": "A pink-haired performer in a denim jacket and studded bra executes a high leg kick in sparkly knee-high boots on a red-lit stage, flanked by two male dancers in matching poses.",
+    "alt2": "Three dancers strike synchronized balance poses under dramatic red stage lighting, with the central pink-haired figure in heeled boots supported by two dancers in torn tops and shorts."
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_10.jpg": {
+    "alt1": "Vocalist Crix of Adéla sings into a microphone on stage, with bright pink hair and a studded black and teal leather outfit, as a bandmate plays behind her.",
+    "alt2": "A pink-haired singer in a studded black top performs with a mic held to her lips under stage lighting, with a shaved-head musician in a white shirt in the background.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_11.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) sings into a microphone on stage, with bright pink hair and a studded black and blue outfit, lit in purple.",
+    "alt2": "A performer with vivid pink hair holds a mic mid-song under stage lighting, wearing a studded leather and lace bra, with a bandmate blurred behind.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_12.jpg": {
+    "alt1": "A pink-haired performer in a studded black bra and shorts and tall lace-up boots strikes a dramatic pose on stage, surrounded by dancers in a red-railed ring.",
+    "alt2": "Energetic stage show with four performers; a vocalist with magenta hair arches back while a shirtless dancer kneels and others pose under colored lights.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "low",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_13.jpg": {
+    "alt1": "Four performers in edgy punk-style outfits strike dynamic dance poses on a dark stage behind a red railing, lit by green stage lights.",
+    "alt2": "A pink-haired vocalist in a studded bra and shorts stands center stage, flanked by three energetic dancers in torn clothing during a live performance."
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_14.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) sings into a microphone on stage, with long bright pink hair and a studded black leather bra top and shorts.",
+    "alt2": "Pink-haired singer performs under stage lighting in a studded leather outfit, holding a mic close to her mouth, with another performer in white behind her.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_15.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) performs a vertical split, one leg raised high in a studded boot, singing into a mic against pink stage lighting.",
+    "alt2": "Pink-haired performer in a black studded outfit and glittery heeled boots holds a dramatic standing split pose while gripping a microphone, leaning on a bright pink railing.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_16.jpg": {
+    "alt1": "Vocalist Crix of Adéla sings into a mic with one leg raised high in a vertical split on stage, flanked by two dancers leaning against a pink barre.",
+    "alt2": "A pink-haired singer holds a dramatic high-kick pose at a bright pink railing while two performers in distressed shorts and crop tops pose on either side under stage lighting.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_17.jpg": {
+    "alt1": "A pink-haired performer in a studded black outfit and knee-high boots strikes a pose with one arm raised, flanked by four backup dancers on a red-lit stage.",
+    "alt2": "Energetic stage performance with a lead vocalist in bright magenta hair center stage, surrounded by dancers in ripped shirts and shorts under intense pink lighting.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_18.jpg": {
+    "alt1": "Vocalist Crix (Cristy) of Adéla (The Adela Band) holds a mic aloft mid-song, pink hair flowing, flanked by four backup dancers under red stage lights.",
+    "alt2": "A pink-haired singer in a studded bra and knee-high boots performs center stage with raised arm, surrounded by energetic dancers in a pink-lit venue.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_19.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band), with bright pink hair, raises a microphone high while performing center stage flanked by four dancers under red lighting.",
+    "alt2": "A pink-haired singer in a studded bra and shorts with tall lace-up boots strikes a pose on a red-lit stage, surrounded by dancers in denim and ripped shirts.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_20.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) sings into a microphone and points to the side, with pink hair and a studded black outfit, flanked by two shirtless backup dancers on stage.",
+    "alt2": "A pink-haired singer in a black studded bra and shorts performs on a dark stage, pointing outward while singing, with two male dancers in torn white shirts beside her.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_21.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) performs with two dancers on a red-lit stage before a dense crowd holding phones aloft.",
+    "alt2": "A large concert crowd bathed in red light faces a stage where a singer and dancers perform, with stage trusses and an exit sign above.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_22.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) performs center stage with four dancers under white beams, before a packed red-lit crowd.",
+    "alt2": "A concert hall bathed in deep red light, with a large silhouetted audience raising hands and phones toward five performers on a brightly lit stage.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_23.jpg": {
+    "alt1": "Silhouetted concert crowd with one person's arm raised and pointing upward, facing a stage lit in blue and purple with bright spotlights overhead.",
+    "alt2": "View from within a dense audience at an indoor concert; several people hold up glowing phones as a distant performer stands on a brightly lit stage."
+  },
+  "20260929_Adela_at_Showbox-SoDo_Photo-by-Alex-Crick_24.jpg": {
+    "alt1": "Vocalist Crix of Adéla (The Adela Band) performs on a stage bathed in pink and purple light, arm raised, before a crowd holding up phones.",
+    "alt2": "View from the back of a packed concert crowd toward a lone singer on a smoke-filled, purple-lit stage under industrial trusses and lighting rigs.",
+    "members_detected": [
+      {
+        "name": "Crix (Cristy)",
+        "role": "Vocals",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "A performer with curly hair in an open velvet shirt and layered necklaces stands dramatically lit on a smoky stage.",
+    "alt2": "Backlit musician on stage surrounded by haze, wearing a patterned shirt with deep neckline, a stage light glowing behind."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "Two male rock musicians perform intensely on stage, one playing bass guitar and the other singing into a microphone, both facing each other.",
+    "alt2": "A bassist in a black mesh top and a vocalist in a shiny silver jacket passionately perform face-to-face during a live concert."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "A performer with curly hair sings into a microphone on stage, wearing a shiny metallic jacket and black leather pants under blue stage lighting.",
+    "alt2": "Energetic concert moment: a singer in a glittering open jacket strikes a dramatic wide stance amid smoke and spotlights."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "A curly-haired singer in a shiny black and gold patterned shirt sings into a microphone while pointing upward on stage.",
+    "alt2": "Male performer with dark curly hair passionately sings and gestures with one finger raised, lit against a blue stage backdrop."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "Two rock musicians perform energetically on a graffiti-covered stage; one in silver and leather climbs a pole while another plays electric guitar.",
+    "alt2": "Live concert scene with a singer in flashy silver jacket shouting and a black-clad guitarist leaning back mid-performance against a brick backdrop."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "A male singer with curly hair performs passionately on stage, leaning forward with a microphone while wearing a patterned jacket and studded leather pants.",
+    "alt2": "Energetic concert performer belting into a mic, foot raised on a monitor, dramatically lit against a dark stage with spotlights behind."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_07.jpg": {
+    "alt1": "Male singer with curly hair performs passionately on stage, singing into a microphone while reaching for a mic stand under blue lighting.",
+    "alt2": "A rock vocalist in a shiny patterned shirt and leather pants belts into a mic during a concert, bathed in dramatic blue stage lights."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_08.jpg": {
+    "alt1": "A young performer with curly dark hair sings on stage, holding a microphone and wearing a shiny open silver shirt with necklaces.",
+    "alt2": "Male vocalist in metallic patterned shirt and leather pants performs under blue stage lighting, with his image projected on a screen behind."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_09.jpg": {
+    "alt1": "A male performer with curly dark hair wearing a shiny silver jacket and black leather pants holds a microphone stand on stage, lit by blue light.",
+    "alt2": "Singer in sparkling metallic shirt and layered necklaces grips a mic stand mid-performance, with a drummer visible in the background."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_10.jpg": {
+    "alt1": "Male singer with curly dark hair performing passionately into a microphone on stage, wearing a shiny silver-black jacket and leather pants.",
+    "alt2": "Rock vocalist singing into a handheld mic under blue stage lighting, dressed in metallic open shirt with layered necklaces."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_11.jpg": {
+    "alt1": "A performer in a metallic silver shirt and black leather pants holds a microphone stand overhead on a stage with urban-themed backdrop.",
+    "alt2": "Energetic singer with curly hair raises a mic stand above their head, mouth open mid-performance, against a set featuring 'Hot Pizza' and 'Hotel Canal' signs."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_12.jpg": {
+    "alt1": "A musician with curly hair wearing an open patterned shirt and leather pants holds a microphone stand horizontally on a stage lit in blue.",
+    "alt2": "Live concert performer gripping a tilted mic stand, backlit by stage lights with a drum kit visible in the dim background."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_13.jpg": {
+    "alt1": "Arena concert with large screens showing a curly-haired singer at a microphone, viewed from within a crowd of silhouetted spectators.",
+    "alt2": "Performer in sparkling outfit sings on a stage with elaborate urban set design, as massive video screens display close-ups above a packed audience."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_14.jpg": {
+    "alt1": "Concert crowd watching a live performance with giant screens showing a curly-haired singer with a microphone above an elaborate urban-themed stage.",
+    "alt2": "Silhouetted audience members, some filming on phones, face a brightly lit stage with band members and large video displays of the lead vocalist."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_15.jpg": {
+    "alt1": "A young fan at a crowded concert holds up a glittery sign reading 'HUG? AND I'LL REMEMBER TONIGHT' with red hearts.",
+    "alt2": "An excited girl shouts in a packed arena while raising a handmade sign requesting a hug, surrounded by fans with phones."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_16.jpg": {
+    "alt1": "A young girl cheers excitedly while holding a bright pink sign reading 'You are my Reason' with hearts, amid a crowded concert audience.",
+    "alt2": "At a packed concert, a man in a cap films on his phone as a smiling child holds up a handmade pink fan sign decorated with hearts."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_17.jpg": {
+    "alt1": "A male singer with curly hair in a shiny patterned shirt and leather pants sings into a mic while pointing at the crowd on a dark stage.",
+    "alt2": "Performer leaning forward with a microphone, gesturing toward the audience, lit by purple and blue stage lighting during a concert."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_18.jpg": {
+    "alt1": "A male singer with curly dark hair performs passionately into a microphone on stage, wearing a shiny silver-patterned shirt and black leather pants.",
+    "alt2": "Live concert performance of a vocalist gripping a mic stand and singing against a dark blue stage backdrop, dressed in a metallic shirt."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_19.jpg": {
+    "alt1": "A male guitarist with curly hair sings passionately into view while playing a sunburst electric guitar on a dimly lit concert stage.",
+    "alt2": "Energetic musician in a black sleeveless shirt performs live, mouth open mid-shout, gripping a Gibson guitar with a red-striped strap."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_20.jpg": {
+    "alt1": "Male singer with curly hair in a shiny patterned shirt and leather pants points dramatically while holding a microphone on a dark stage.",
+    "alt2": "A performer crouches mid-song, arm extended and pointing into the crowd, with stage smoke drifting across a black background."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_21.jpg": {
+    "alt1": "Male singer with curly hair in a shiny silver shirt and black leather pants, extending a microphone outward on a smoky stage.",
+    "alt2": "Performer reaching his arm out with a microphone during a concert, lit against swirling stage haze with a crowd below."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_22.jpg": {
+    "alt1": "Male performer with curly hair in a shiny metallic jacket extends a microphone outward on a smoke-filled stage.",
+    "alt2": "A singer in silver patterned top and black leather pants gestures with a mic, dramatically lit against dark smoky backdrop."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_23.jpg": {
+    "alt1": "A curly-haired singer in a shiny silver-patterned shirt and black leather pants sings into a handheld microphone on stage.",
+    "alt2": "Male vocalist performs passionately at a concert, gripping a mic as stage smoke rises before a dimly lit crowd."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_24.jpg": {
+    "alt1": "A male singer with curly hair performs into a microphone on stage, wearing a shiny silver shirt and black leather pants, against a dark backdrop of scattered white lights.",
+    "alt2": "Young performer sings passionately gripping a mic stand, dressed in glittery top and studded leather trousers, surrounded by starry concert lighting."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_25.jpg": {
+    "alt1": "A male performer with curly hair sings passionately into a microphone on stage, eyes closed, wearing a patterned shirt and studded leather pants.",
+    "alt2": "Singer leans into a mic stand mid-performance against a dark backdrop dotted with glowing concert lights and phone flashes."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_26.jpg": {
+    "alt1": "A male singer with curly hair leans back holding a microphone stand, head tilted upward, performing on a dark stage with scattered lights.",
+    "alt2": "Musician in a shimmering patterned shirt and studded leather pants sings passionately into a mic against a black backdrop dotted with glowing lights."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_27.jpg": {
+    "alt1": "A performer with curly hair in an open silver shirt and black leather pants stands on stage, reaching toward a microphone stand.",
+    "alt2": "A young musician with layered necklaces and dark eye makeup poses confidently under stage lighting during a concert."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_28.jpg": {
+    "alt1": "A guitarist in a black sleeveless shirt plays a gold Les Paul guitar and sings energetically on a concert stage.",
+    "alt2": "Male musician performing live, mouth open mid-shout, holding a gold electric guitar before a dimly lit crowd."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_29.jpg": {
+    "alt1": "A performer with curly dark hair in an open silver jacket stands onstage surrounded by billowing purple and pink smoke.",
+    "alt2": "Male musician in flashy open-chested outfit performs amid dramatic stage fog lit in vivid magenta and purple hues."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_30.jpg": {
+    "alt1": "Four young women in matching white 'I love SOMBR' t-shirts cheer and sing enthusiastically at a crowded concert.",
+    "alt2": "Excited fans wearing fan t-shirts with open mouths, clapping and screaming in an arena audience during a live show."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_31.jpg": {
+    "alt1": "A young performer with curly hair in a metallic silver jacket and black leather pants holds a microphone stand on a blue-lit stage.",
+    "alt2": "Male singer in an open shimmering shirt and necklaces stands at a mic, bathed in blue stage lighting with 'CHERRY'S' text in the background."
+  },
+  "20261001_Sombr_at_Climate-Pledge-Arena_Photo-by-Alex-Crick_32.jpg": {
+    "alt1": "A performer with curly hair kneels on a stage, head tilted back, wearing a shiny metallic shirt and leather pants under blue stage lighting.",
+    "alt2": "Musician in a dramatic pose on a dark concert stage, gazing upward with a single spotlight visible in the background."
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_01.jpg": {
+    "alt1": "Sting sings into a headset mic while playing a worn sunburst bass guitar on a blue-lit stage, with a drummer behind him.",
+    "alt2": "A singer in a navy T-shirt and black trousers plays a vintage Fender bass mid-performance, drum kit glinting under stage lights.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Chris Maas",
+        "role": "Drums",
+        "confidence": "low",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_02.jpg": {
+    "alt1": "Sting performs on a blue-lit stage, playing a worn sunburst bass guitar and wearing a dark t-shirt and headset mic.",
+    "alt2": "A musician holding a weathered bass guitar looks toward the audience, with drum kit and a bright stage spotlight behind him.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_03.jpg": {
+    "alt1": "Sting plays a worn sunburst bass guitar on stage, looking down, wearing a dark t-shirt and black leather pants under blue lighting.",
+    "alt2": "A musician performs with a vintage bass against a deep blue backdrop, drum kit visible behind him on a concert stage.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_04.jpg": {
+    "alt1": "Sting sings into a headset mic while playing a well-worn sunburst bass guitar on a blue-lit stage.",
+    "alt2": "A man in a dark t-shirt and black leather pants performs on bass, mouth open mid-song, under blue stage lighting with an ornate drum behind him.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_05.jpg": {
+    "alt1": "Sting sings into a headset mic while playing a worn sunburst bass guitar on a blue-lit stage, with a stool behind him.",
+    "alt2": "A performer in a black T-shirt and leather pants plays bass and sings under blue and purple stage lighting, with speakers at the stage edge.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_06.jpg": {
+    "alt1": "Sting sings into a headset mic while playing a well-worn bass guitar on a stage lit in blue, a stool and patterned drum behind him.",
+    "alt2": "A silver-haired musician in a dark blue t-shirt and black jeans performs on bass, mouth open mid-vocal, amid blue stage lighting and haze.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_07.jpg": {
+    "alt1": "Sting sings while playing a worn vintage bass guitar on a blue-lit stage, with two drinking glasses on a patterned table beside him.",
+    "alt2": "A gray-haired musician in a navy T-shirt and leather pants performs with an aged bass guitar under dramatic blue stage lighting.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_08.jpg": {
+    "alt1": "A three-piece band performs on a dimly lit stage under blue spotlights, with an ornate illuminated backdrop above a drummer and two guitarists.",
+    "alt2": "Sting plays bass on the right of a stage lit in deep blue, with a guitarist on the left and drummer center beneath a glowing symmetrical light display.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Chris Maas",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Dominic Miller",
+        "role": "Guitar",
+        "confidence": "low",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_09.jpg": {
+    "alt1": "Three musicians perform on a blue-lit stage; Sting plays bass on the right, a guitarist stands left, and a drummer plays center behind a Ludwig kit.",
+    "alt2": "Concert scene with Sting on bass under a spotlight, drummer Chris Maas at center, and guitarist Dominic Miller at left before a green-and-blue backdrop.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Chris Maas",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Dominic Miller",
+        "role": "Guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_10.jpg": {
+    "alt1": "Sting plays bass and sings at the front of a stage lit with red backlighting, while a guitarist and drummer perform behind him.",
+    "alt2": "Three-piece band on stage: guitarist Dominic Miller at left, drummer Chris Maas on a Ludwig kit at center, and Sting on bass at right, before an audience.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Chris Maas",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Dominic Miller",
+        "role": "Guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_11.jpg": {
+    "alt1": "Sting sings while playing a worn sunburst bass guitar on stage, a drum kit with Ludwig bass drum behind him under blue lighting.",
+    "alt2": "A man in a black t-shirt performs with a well-used bass guitar, lit by blue stage lights with drums in the background.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_12.jpg": {
+    "alt1": "Sting sings and plays bass center stage under blue lighting, with a guitarist and drummer behind him before a large crowd.",
+    "alt2": "Concert stage bathed in blue light with illuminated panel backdrop; Sting performs on bass alongside a drummer and guitarist, facing a packed audience.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Chris Maas",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Dominic Miller",
+        "role": "Guitar",
+        "confidence": "low",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_13.jpg": {
+    "alt1": "Sting plays bass and sings center stage in a dramatic concert, with a guitarist and drummer behind him under beams of white light and orange backdrop.",
+    "alt2": "A three-piece band performs on a large stage flooded with crisscrossing spotlights and smoke, Sting on bass at front, drummer and guitarist behind, audience silhouetted below.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      },
+      {
+        "name": "Chris Maas",
+        "role": "Drums",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_14.jpg": {
+    "alt1": "Sting plays a worn sunburst bass guitar on stage, wearing a dark short-sleeved shirt, with a drum kit behind him.",
+    "alt2": "A focused musician performs on bass guitar under stage lighting, in-ear monitor visible, Ludwig drum kit in the background.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
+  },
+  "20261008_Sting_at_Benaroya-Hall_Photo-by-Alex-Crick_15.jpg": {
+    "alt1": "Sting sings with eyes closed while playing a worn vintage sunburst bass guitar on a stage lit in deep blue.",
+    "alt2": "A musician in a dark t-shirt plays bass and sings under blue stage lighting, with monitors and speakers behind him.",
+    "members_detected": [
+      {
+        "name": "Sting",
+        "role": "Lead vocals, bass guitar",
+        "confidence": "medium",
+        "matched_by": "role"
+      }
+    ]
   }
 }

@@ -10,6 +10,7 @@ Usage:
 Optional band member identification (see README / PROJECT_VISION.md for details):
     python generate_alt_gallery.py --band "The Lashes"
     python generate_alt_gallery.py --band "The Lashes" --refresh-band
+    python generate_alt_gallery.py --artist "Sting"
     python generate_alt_gallery.py --band "The Lashes" --add-member "Jane Doe:guitarist:./jane.jpg"
 """
 
@@ -53,7 +54,7 @@ ALT_TEXT_PROMPT = ALT_TEXT_RULES + (
 # Used instead of ALT_TEXT_PROMPT when --band is given and the band has at
 # least one known lineup member (with or without a reference photo).
 MEMBER_ALT_TEXT_PROMPT_TEMPLATE = ALT_TEXT_RULES + (
-    "\nThis photo is from a performance by the band \"{band_name}\". Their "
+    "\nThis photo is from a performance by {act_description}. Their "
     "full current lineup is:\n{lineup_text}\n\n"
     "Use two ways to identify people, in order of reliability:\n"
     "1. Face match — a person in the actual photo matches one of the "
@@ -62,10 +63,7 @@ MEMBER_ALT_TEXT_PROMPT_TEMPLATE = ALT_TEXT_RULES + (
     "role marked \"unique role in this lineup\" above. Only do this for "
     "roles marked unique — never guess between two lineup members who share "
     "a role (e.g. two guitarists) based on role alone.\n\n"
-    "When you name someone, phrase it as their role, then their name, then "
-    "the band, e.g. \"Bass guitarist Jane Doe of {band_name} performs...\". "
-    "If more than one named person appears in the same description, state "
-    "the band name once, not for every person. Anyone you don't recognize "
+    "{naming_rule} Anyone you don't recognize "
     "or can't confidently place stays generic (e.g. \"a drummer\"), in the "
     "same sentence if needed.\n\n"
     "For every person you name, rate your confidence honestly:\n"
@@ -220,8 +218,27 @@ def generate_alt_text_with_members(
     content.append({"type": "text", "text": "Actual photo to describe:"})
     content.append(_image_block(image_path))
 
+    act_name = band_info.get("band_name", "the band")
+    if band_info.get("is_solo_artist"):
+        act_description = f"the solo artist \"{act_name}\""
+        naming_rule = (
+            f"Name {act_name} plainly, e.g. \"{act_name} sings...\" — not "
+            f"\"... of {act_name}\". Name backing musicians as their role, then "
+            f"their name, then the artist, e.g. \"Bass guitarist Jane Doe, "
+            f"performing with {act_name}, ...\". If more than one named person "
+            f"appears in the same description, mention {act_name} once."
+        )
+    else:
+        act_description = f"the band \"{act_name}\""
+        naming_rule = (
+            "When you name someone, phrase it as their role, then their name, then "
+            f"the band, e.g. \"Bass guitarist Jane Doe of {act_name} performs...\". "
+            "If more than one named person appears in the same description, state "
+            "the band name once, not for every person."
+        )
     prompt = MEMBER_ALT_TEXT_PROMPT_TEMPLATE.format(
-        band_name=band_info.get("band_name", "the band"),
+        act_description=act_description,
+        naming_rule=naming_rule,
         lineup_text="\n".join(lineup_lines),
     )
     content.append({"type": "text", "text": prompt})
@@ -401,11 +418,11 @@ def main() -> None:
         help="Regenerate alt text even if a cached result already exists"
     )
     parser.add_argument(
-        "--band", default=None, metavar="NAME",
-        help="Band name. Enables looking up members and naming them in alt text when recognized."
+        "--band", "--artist", dest="band", default=None, metavar="NAME",
+        help="Band or solo artist name (e.g. --band \"Devo\" or --artist \"Sting\"). Enables looking up members and naming them in alt text when recognized."
     )
     parser.add_argument(
-        "--refresh-band", action="store_true",
+        "--refresh-band", "--refresh-artist", dest="refresh_band", action="store_true",
         help="Force a fresh lookup of band member info, ignoring the 90-day cache. Requires --band."
     )
     parser.add_argument(

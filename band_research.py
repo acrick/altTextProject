@@ -32,14 +32,18 @@ MIN_PHOTO_BYTES = 2000  # anything smaller is almost certainly an icon/placehold
 BAND_RESEARCH_MODEL = "claude-sonnet-5"
 VALIDATION_MODEL = "claude-sonnet-5"
 
-BAND_RESEARCH_PROMPT_TEMPLATE = """Search the web to research the band "{band_name}".
+BAND_RESEARCH_PROMPT_TEMPLATE = """Search the web to research the musical act "{band_name}". \
+It may be a band or a solo artist.
 
 Find:
-1. The band's Wikipedia page URL, if one exists.
-2. A short one-line description (genre, hometown, year formed) if available.
-3. The CURRENT lineup: each member's name and their role or instrument.
-4. For each current member, if you can find one, a direct URL to a photo of \
-just that person — an official press photo, a photo from the band's own \
+1. The act's Wikipedia page URL, if one exists.
+2. A short one-line description (genre, hometown, year formed or active) if available.
+3. Whether this is a solo artist (one named performer, e.g. Sting) or a band.
+4. The CURRENT lineup: each member's name and their role or instrument. For a \
+solo artist, list the artist themself FIRST (role = what they sing/play), \
+then their current touring/backing musicians if you can find them.
+5. For each person, if you can find one, a direct URL to a photo of \
+just that person — an official press photo, a photo from the act's own \
 site, or a social media profile photo. Only include a URL if you're \
 reasonably confident it shows that specific person individually, not a \
 full-band group shot, a logo, or an unrelated image. It's fine to leave \
@@ -51,16 +55,17 @@ exactly this shape:
   "band_name": "...",
   "wikipedia_url": "... or null",
   "description": "...",
+  "is_solo_artist": true or false,
   "members": [
     {{"name": "...", "role": "...", "photo_url": "... or null"}}
   ]
 }}
 
-If you cannot find a band by this name at all, respond with exactly:
+If you cannot find a band or artist by this name at all, respond with exactly:
 {{"error": "not_found"}}
 
-If there are multiple different, similarly-known bands with this name and \
-you can't tell which one is meant, respond with exactly:
+If there are multiple different, similarly-known bands or artists with this \
+name and you can't tell which one is meant, respond with exactly:
 {{"error": "ambiguous", "candidates": ["short description of each band", "..."]}}
 """
 
@@ -244,7 +249,8 @@ def _print_band_summary(band_info: dict) -> None:
     wiki = band_info.get("wikipedia_url") or "(no Wikipedia page found)"
     members = band_info.get("members", [])
     with_photos = sum(1 for m in members if m.get("reference_photo"))
-    print(f"\nBand: {name}")
+    label = "Artist" if band_info.get("is_solo_artist") else "Band"
+    print(f"\n{label}: {name}")
     print(f"  Wikipedia: {wiki}")
     print(f"  Members found: {len(members)} ({with_photos} with a usable reference photo)")
     for m in members:
@@ -271,24 +277,24 @@ def research_band(
             _print_band_summary(cached)
             return cached
 
-    print(f"Researching band: {band_name} ...")
+    print(f"Researching band/artist: {band_name} ...")
     raw = _call_band_research_api(client, band_name)
 
     if "error" in raw:
         err = raw["error"]
         if err == "not_found":
             raise SystemExit(
-                f"Error: could not find a band called '{band_name}'. "
+                f"Error: could not find a band or artist called '{band_name}'. "
                 "Check the spelling, or try --add-member to add people manually."
             )
         if err == "ambiguous":
             candidates = raw.get("candidates", [])
             lines = "\n".join(f"  - {c}" for c in candidates)
             raise SystemExit(
-                f"Error: multiple bands found matching '{band_name}':\n{lines}\n"
-                "Try a more specific band name (e.g. add a city or genre)."
+                f"Error: multiple bands/artists found matching '{band_name}':\n{lines}\n"
+                "Try a more specific name (e.g. add a city or genre)."
             )
-        raise SystemExit(f"Error: band research failed ({err}). Try again, or use --add-member.")
+        raise SystemExit(f"Error: band/artist research failed ({err}). Try again, or use --add-member.")
 
     band_dir = _band_dir(cache_dir, slug)
     ref_dir = band_dir / "reference-photos"
@@ -327,6 +333,7 @@ def research_band(
         "band_name": raw.get("band_name") or band_name,
         "wikipedia_url": raw.get("wikipedia_url"),
         "description": raw.get("description", ""),
+        "is_solo_artist": bool(raw.get("is_solo_artist")),
         "fetched_date": date.today().isoformat(),
         "members": members,
     }
